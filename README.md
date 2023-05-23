@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Jenkins, AWS, GIT and Docker
 - 📫 How to reach me: on linkedin
 - ⚡ Fun fact: I am an avid reader
+- Blog link- https://sayalib.hashnode.dev/git-git-hub
 >
