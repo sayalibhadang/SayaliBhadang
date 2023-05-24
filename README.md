@@ -10,7 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on linkedin
 - ⚡ Fun fact: I am an avid reader
 - Blog link- https://sayalib.hashnode.dev/git-git-hub
->
+><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://hashnode.com/devops24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sayalibhadang" height="30" width="40" /></a>
+</p>
 <h3 align="left">Tools & Languages:</h3>
 <h3 align="left">Version Control System :</h3>
 <h align="left><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.python.org/" alt="python" width="40" height="40"/> <img src="https://www.linux.org/" alt="linux" width="40" height="40"/></a>
